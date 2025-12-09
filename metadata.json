@@ -1,0 +1,7 @@
+{
+  "name": "AI HR Interviewer",
+  "description": "An AI-powered HR interviewer that analyzes your resume, conducts a real-time voice interview, and provides detailed feedback and scoring.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
